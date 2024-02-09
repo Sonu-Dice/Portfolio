@@ -110,6 +110,7 @@ h5{
 h5>span{
     font-size: 1.375rem;
     line-height: 1.5;
+    font-weight: 500;
     color: var(--text-gray);
 }
 h6{
@@ -305,6 +306,7 @@ a:hover{
     padding: 4.375rem;
     border-radius: .9375rem;
 }
+
 
 .about_wrapper .accordion-body .card_img{
     width: 60%;

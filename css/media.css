@@ -84,6 +84,10 @@
     h5{
         font-size: .9375rem;
     }
+    h5>span{
+        font-size: .9375rem;
+        font-weight: 500;
+    }
     p{
         font-size: .875rem;
     }
